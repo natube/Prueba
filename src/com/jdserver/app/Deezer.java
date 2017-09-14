@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName;
 
 public class Deezer {
 	public Integer getId() {
-		return id;
+		return id; 
 	}
 	public void setId(Integer id) {
 		this.id = id;

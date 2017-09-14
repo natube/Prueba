@@ -17,6 +17,7 @@ public class Main {
 			
 			System.out.println(deezer.getId());
 			System.out.println(deezer.getId());
+			System.out.println(deezer.getId());
 			System.out.println(deezer.getNombre());
 			//System.out.println(deezer.getLink());
 			System.out.println(deezer.getPicture());
