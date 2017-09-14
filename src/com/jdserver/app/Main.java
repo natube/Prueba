@@ -16,6 +16,7 @@ public class Main {
 			Deezer deezer = new Gson().fromJson(reader, Deezer.class);
 			
 			System.out.println(deezer.getId());
+			System.out.println(deezer.getId());
 			System.out.println(deezer.getNombre());
 			//System.out.println(deezer.getLink());
 			System.out.println(deezer.getPicture());
